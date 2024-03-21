@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.40.8](https://github.com/postalsys/emailengine/compare/v2.40.7...v2.40.8) (2024-03-21)
+
+
+### Bug Fixes
+
+* **smtp:** Do not override From: header in an email from SMTP interface ([69f6c32](https://github.com/postalsys/emailengine/commit/69f6c325278e79e8950e5c4e7efb299e06b0cbd0))
+
 ## [2.40.7](https://github.com/postalsys/emailengine/compare/v2.40.6...v2.40.7) (2024-03-20)
 
 
